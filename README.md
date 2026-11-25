@@ -77,7 +77,7 @@ travel-platform/
 
 ### 方式一：直接下载 ZIP
 
-1. 打开 [GitHub 仓库](https://github.com/leeink12-oss/Intern-Product-Library)。
+1. 打开 [GitHub 仓库](https://github.com/leeink12-oss/Multi-end-travel-platform)。
 2. 点击绿色 `Code` 按钮。
 3. 选择 `Download ZIP`。
 4. 解压后进入项目根目录。
@@ -85,8 +85,8 @@ travel-platform/
 ### 方式二：使用 Git 克隆
 
 ```bash
-git clone https://github.com/leeink12-oss/Intern-Product-Library.git
-cd Intern-Product-Library
+git clone https://github.com/leeink12-oss/Multi-end-travel-platform.git
+cd Multi-end-travel-platform
 ```
 
 ## 安装环境
@@ -311,6 +311,6 @@ DB_PASSWORD
 
 ## 仓库
 
-- GitHub：<https://github.com/leeink12-oss/Intern-Product-Library>
+- GitHub：<https://github.com/leeink12-oss/Multi-end-travel-platform>
 - 本地前端：`http://localhost:5173`
 - 本地后端：`http://localhost:8080`
